@@ -1,0 +1,4 @@
+venv/
+akmedia/__pycache__/
+content/__pycache__/
+content/migrations/__pycache__/
