@@ -78,9 +78,3 @@ Push to the branch:
 
 git push origin feature-branch
 Submit a pull request.
-**License**
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-**Contact**
-For questions or support, please open an issue in the repository or contact [akmedia28@gmail.com].
-
