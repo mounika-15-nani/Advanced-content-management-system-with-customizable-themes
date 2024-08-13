@@ -19,9 +19,7 @@ Database: SQLite3
 
 **Installation**
 Clone the repository:
-**sh**
-git clone https://github.com/akmedia/akmedia-cms.git
-cd akmedia-cms
+
 
 **Create and activate a virtual environment:**
 **sh**
